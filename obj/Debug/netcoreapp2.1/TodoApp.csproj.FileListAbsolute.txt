@@ -1,0 +1,14 @@
+C:\Users\Martin-LENOVO\Documents\TodoApp\bin\Debug\netcoreapp2.1\TodoApp.deps.json
+C:\Users\Martin-LENOVO\Documents\TodoApp\bin\Debug\netcoreapp2.1\TodoApp.runtimeconfig.json
+C:\Users\Martin-LENOVO\Documents\TodoApp\bin\Debug\netcoreapp2.1\TodoApp.runtimeconfig.dev.json
+C:\Users\Martin-LENOVO\Documents\TodoApp\bin\Debug\netcoreapp2.1\TodoApp.dll
+C:\Users\Martin-LENOVO\Documents\TodoApp\bin\Debug\netcoreapp2.1\TodoApp.pdb
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.csprojAssemblyReference.cache
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.RazorAssemblyInfo.cache
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.RazorAssemblyInfo.cs
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.AssemblyInfoInputs.cache
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.AssemblyInfo.cs
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.RazorTargetAssemblyInfo.cache
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.dll
+C:\Users\Martin-LENOVO\Documents\TodoApp\obj\Debug\netcoreapp2.1\TodoApp.pdb
