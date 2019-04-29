@@ -30,4 +30,3 @@ services:
             MongoDB__Host: mongo
         depends_on:
             - mongo
-            
